@@ -3,10 +3,6 @@
 ## 📌 Project Overview
 This project analyzes transactional data from a supermarket chain to uncover actionable insights regarding high-revenue product lines, customer purchasing behavior, and peak sales hours. The ultimate goal is to optimize inventory distribution, staffing schedules, and marketing strategies.
 
-## 📊 Dataset Source
-Due to file size limitations, the main dataset is not fully hosted here. You can download the source data directly from:
-- [Kaggle Dataset Link](https://www.kaggle.com/code/faridghattas/da-olympic-history-for-athletes-and-results/input)
-  
 ## 🛠️ Tech Stack & Libraries
 - **Language:** Python
 - **Environment:** Jupyter Notebook
